@@ -1,10 +1,14 @@
 # Node.js dependencies
 node_modules/
+npm-debug.log
+yarn-error.log
+yarn-debug.log
 
 
 
 # Build directories
-
+/thintank-proj/frontend/build/
+/thintank-proj/backend/target/
 
 # Logs
 logs/
