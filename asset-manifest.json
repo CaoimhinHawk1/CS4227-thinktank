@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CS4227-thinktank/static/css/main.f511d47e.css",
+    "main.js": "/CS4227-thinktank/static/js/main.dab992ba.js",
+    "static/js/453.9acd0c46.chunk.js": "/CS4227-thinktank/static/js/453.9acd0c46.chunk.js",
+    "index.html": "/CS4227-thinktank/index.html",
+    "main.f511d47e.css.map": "/CS4227-thinktank/static/css/main.f511d47e.css.map",
+    "main.dab992ba.js.map": "/CS4227-thinktank/static/js/main.dab992ba.js.map",
+    "453.9acd0c46.chunk.js.map": "/CS4227-thinktank/static/js/453.9acd0c46.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f511d47e.css",
+    "static/js/main.dab992ba.js"
+  ]
+}
